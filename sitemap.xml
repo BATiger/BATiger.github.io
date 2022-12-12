@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://batiger.github.io/archives/64c6e1a6.html</loc>
+    
+    <lastmod>2022-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://batiger.github.io/archives/4a17b156.html</loc>
+    
+    <lastmod>2022-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://batiger.github.io/about/index.html</loc>
     
     <lastmod>2022-12-12</lastmod>
@@ -30,24 +48,6 @@
   
   <url>
     <loc>https://batiger.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-12-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://batiger.github.io/archives/64c6e1a6.html</loc>
-    
-    <lastmod>2022-12-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://batiger.github.io/archives/4a17b156.html</loc>
     
     <lastmod>2022-12-11</lastmod>
     
